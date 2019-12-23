@@ -1,0 +1,22 @@
+PODS:
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+  - UnsplashPhotoPicker (1.1.0)
+
+DEPENDENCIES:
+  - SDWebImage
+  - UnsplashPhotoPicker
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+    - UnsplashPhotoPicker
+
+SPEC CHECKSUMS:
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  UnsplashPhotoPicker: 9bbce3281825f0f61b98a53df84875e33723cd1d
+
+PODFILE CHECKSUM: 900cc8ec63cee87fc384e20f45ba43b577771d1e
+
+COCOAPODS: 1.6.0.rc.2

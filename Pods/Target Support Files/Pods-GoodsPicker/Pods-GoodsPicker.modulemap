@@ -1,0 +1,6 @@
+framework module Pods_GoodsPicker {
+  umbrella header "Pods-GoodsPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
