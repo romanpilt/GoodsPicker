@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  GoodsPicker
 //
-//  Created by Bitlish on 23/12/2019.
+//  Created by Roman on 23/12/2019.
 //  Copyright © 2019 Test. All rights reserved.
 //
 
